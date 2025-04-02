@@ -15,7 +15,7 @@ export const About = () => {
 
         <div className="rounded-xl p-8 border-white/10 border hover:-translate-y-1 transition-all">
             <p className="text-gray-300 mb-6">
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti dolor, consequuntur eaque voluptatum nisi minima asperiores sed tempora eligendi deserunt, ipsum aut alias? Nihil minima nostrum maxime sit. Sapiente, unde.
+            My name is Lucas, I’m 18 years old, and I had my first experience with programming at 14 when I started developing game servers using the Lua language. Around the same time, I discovered Photoshop and began creating logos, banners, and customized content. Since then, I have been deepening my knowledge and nurturing my passion for this field.
             </p>
 
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -44,28 +44,18 @@ export const About = () => {
                     </div>
                 </div>
             </div>
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mt-8">
+            <div className="gap-6 mt-8">
                 <div className="p-6 rounded-xl border-white/10 border hover:-translate-y-1 transition-all ">
                     <h3 className="text-xl font-bold mb-4"> Education </h3>
                     <ul className="list-disc list-inside text-gray-300 space-y-2">
                         <li>
-                            <strong> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestias non rem dolore sunt, et corporis laborum ut minima deserunt aut praesentium nostrum hic deleniti consequatur blanditiis adipisci quas labore rerum. </strong> - YXZ University (2025 - 2027)
+                            <strong> Análise e Desenvolvimento de Sistemas </strong> - Universidade USCS (2025 - 2027) - Cursando
                         </li>
                         <li>
-                            <strong> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestias non rem dolore sunt, et corporis laborum ut minima deserunt aut praesentium nostrum hic deleniti consequatur blanditiis adipisci quas labore rerum. </strong> - YXZ University (2025 - 2027)
+                            <strong> Informática </strong> - Senac São Bernardo do Campo (2024 - 2024) - Completo
                         </li>
                     </ul>
-                </div>
-                <div className="p-6 rounded-xl border-white/10 border hover:-translate-y-1 transition-all ">
-                    <h3 className="text-xl font-bold mb-4"> Work Experience </h3>
-                    <div className="space-y-4 text-gray-300">
-                        <div>
-                            <h4 className="font-semibold"> exepmlo </h4>
-                            <p> oq eu fiz </p>
-                        </div>
-
-                    </div>
-                </div>
+                </div>           
             </div>
         </div>
         </RevealOnScroll>
