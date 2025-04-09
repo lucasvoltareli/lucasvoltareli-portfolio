@@ -10,11 +10,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-<<<<<<< HEAD
     "deploy": "gh-pages -d dist"
-=======
-    "deploy": "gh-pages -d dist" 
->>>>>>> 16f34e0a4ef500cd4ed3b2433b8c09dd59a5f9a4
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.0.14",
@@ -33,10 +29,6 @@
     "eslint-plugin-react-refresh": "^0.4.19",
     "gh-pages": "^6.3.0",
     "globals": "^15.15.0",
-<<<<<<< HEAD
     "vite": "^6.2.5"
-=======
-    "vite": "^6.2.0"
->>>>>>> 16f34e0a4ef500cd4ed3b2433b8c09dd59a5f9a4
   }
 }
