@@ -1,12 +1,51 @@
-# React + Vite
+![lucasvoltareli-portfolio](https://github.com/user-attachments/assets/6519a3ad-93d9-4e5e-8afd-b0db38c7ca07)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 💼 Portfólio - Lucas Voltareli
 
-Currently, two official plugins are available:
+Este é meu portfólio pessoal desenvolvido com **React** e **Tailwind CSS**, com integração via **EmailJS** para envio de mensagens diretamente do formulário de contato.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Tecnologias utilizadas
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [EmailJS](https://www.emailjs.com/) – envio de e-mails sem backend
+
+---
+
+## ✨ Funcionalidades
+
+- Página de apresentação com projetos em destaque
+- Layout moderno e responsivo
+- Formulário de contato funcional com EmailJS
+- Design com Tailwind CSS
+- Código organizado em componentes reutilizáveis
+
+---
+
+## 📄 Licença
+
+Este projeto é de código aberto e está licenciado sob os termos da **Licença MIT**.  
+Você pode usá-lo, modificá-lo e distribuí-lo livremente. Consulte o arquivo [LICENSE](./LICENSE) para mais detalhes.
+
+---
+
+## 🙋‍♂️ Sobre o autor
+
+Desenvolvido com 💙 por **Lucas Voltareli**.
+
+- 📧 pietro.lucas2006@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/lucasvoltareli)
+- 🐙 [GitHub](https://github.com/lucasvoltareli)
+
+---
+
+## 📦 Como rodar o projeto
+
+1. **Clone o repositório:**
+
+```bash
+git clone https://github.com/seu-usuario/seu-repositorio.git
+cd seu-repositorio
