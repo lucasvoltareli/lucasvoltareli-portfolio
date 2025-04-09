@@ -8,6 +8,7 @@ import { Projects } from './components/sections/Projects';
 import { Contact } from './components/sections/Contact';
 import { Designs } from './components/sections/Designs';
 
+
 import './App.css'
 import "./index.css"
 
