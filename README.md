@@ -1,4 +1,4 @@
-![lucasvoltareli-portfolio](https://github.com/user-attachments/assets/6519a3ad-93d9-4e5e-8afd-b0db38c7ca07)
+![lucasvoltareli-portfolio](https://github.com/user-attachments/assets/548e16ef-4470-43be-9846-1e9dfdd6dfb2)
 
 # 💼 Portfólio - Lucas Voltareli
 
