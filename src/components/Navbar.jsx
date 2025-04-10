@@ -28,14 +28,14 @@ export const Navbar = ({ menuOpen, setMenuOpen }) => {
               className="text-white text-base hover:scale-110 transition cursor-pointer"
               aria-label="Mudar para português"
             >
-              🇧🇷
+              BR
             </button>
             <button
               onClick={() => changeLanguage("en")}
               className="text-white text-base hover:scale-110 transition cursor-pointer"
               aria-label="Switch to English"
             >
-              🇺🇸
+              US
             </button>
 
             {/* Menu hamburguer (mobile) */}
@@ -49,19 +49,34 @@ export const Navbar = ({ menuOpen, setMenuOpen }) => {
 
           {/* Links (desktop) */}
           <div className="hidden md:flex items-center space-x-6 md:order-1">
-            <a href="#home" className="text-gray-300 hover:text-white transition-colors">
+            <a
+              href="#home"
+              className="text-gray-300 hover:text-white transition-colors"
+            >
               {t("navbar.home")}
             </a>
-            <a href="#about" className="text-gray-300 hover:text-white transition-colors">
+            <a
+              href="#about"
+              className="text-gray-300 hover:text-white transition-colors"
+            >
               {t("navbar.about")}
             </a>
-            <a href="#projects" className="text-gray-300 hover:text-white transition-colors">
+            <a
+              href="#projects"
+              className="text-gray-300 hover:text-white transition-colors"
+            >
               {t("navbar.projects")}
             </a>
-            <a href="#designs" className="text-gray-300 hover:text-white transition-colors">
+            <a
+              href="#designs"
+              className="text-gray-300 hover:text-white transition-colors"
+            >
               {t("navbar.designs")}
             </a>
-            <a href="#contact" className="text-gray-300 hover:text-white transition-colors">
+            <a
+              href="#contact"
+              className="text-gray-300 hover:text-white transition-colors"
+            >
               {t("navbar.contact")}
             </a>
           </div>
