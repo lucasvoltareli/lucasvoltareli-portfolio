@@ -1,0 +1,68 @@
+{
+  "navbar": {
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "designs": "Designs",
+    "contact": "Contact"
+  },
+  "projects": {
+    "title": "Featured Projects",
+    "notbullsht": {
+      "title": "NotBullSht - Second Hand Store",
+      "description": "I used a school project as a base to build this ecommerce."
+    },
+    "papaleg": {
+      "title": "Papaléguas Agropet - Petshop",
+      "description": "I created this website for a local petshop."
+    },
+    "leaff": {
+      "title": "Leaff - Ecommerce",
+      "description": "I developed this website as a school assignment."
+    },
+    "devlinks": {
+      "title": "Devlinks - Customized Links",
+      "description": "I built this project during a web development course."
+    },
+    "view": "View Project →"
+  },
+  "home": {
+    "greeting": "Hi, I'm Lucas Dev",
+    "description": "I am a professional with a degree in Web Development from Rocketseat, Computer Science from SENAC, and Programming Logic from SENAI. I have experience developing login panels, custom link websites, e-commerce platforms, as well as scripts, mods, and game servers. I also have extensive expertise in graphic design, with mastery of Photoshop to create logos, banners, posters, and social media content. My goal is to use my technical and creative skills to deliver innovative and high-quality solutions.",
+    "viewProjects": "View Projects",
+    "contactMe": "Contact Me"
+  },
+  "about": {
+    "title": "About Me",
+    "description": "My name is Lucas, I’m 18 years old, and I had my first experience with programming at 14 when I started developing game servers using the Lua language. Around the same time, I discovered Photoshop and began creating logos, banners, and customized content. Since then, I have been deepening my knowledge and nurturing my passion for this field.",
+    "frontend": "FrontEnd",
+    "backend": "BackEnd",
+    "education": {
+      "title": "Education",
+      "courses": [
+        {
+          "name": "Systems Analysis and Development",
+          "institution": "USCS University (2025 - 2027)",
+          "status": "In progress"
+        },
+        {
+          "name": "Computer Science",
+          "institution": "Senac São Bernardo do Campo (2024 - 2024)",
+          "status": "Completed"
+        }
+      ]
+    }
+  },
+  "contact": {
+    "title": "Contact Me",
+    "name": "Name",
+    "email": "example@gmail.com",
+    "message": "Your Message",
+    "send": "Send Message",
+    "success": "Message Sent!",
+    "error": "Oops! Something went wrong. Please try again."
+  },
+  "designs": {
+    "title": "Featured Designs"
+  }
+}

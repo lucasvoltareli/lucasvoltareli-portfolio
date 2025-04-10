@@ -1,0 +1,68 @@
+{
+  "navbar": {
+    "home": "Início",
+    "about": "Sobre",
+    "projects": "Projetos",
+    "designs": "Designs",
+    "contact": "Contato"
+  },
+  "projects": {
+    "title": "Projetos em Destaque",
+    "notbullsht": {
+      "title": "NotBullSht - Brechó Online",
+      "description": "Usei um trabalho da escola como base para criar esse ecommerce."
+    },
+    "papaleg": {
+      "title": "Papaléguas Agropet - Petshop",
+      "description": "Criei esse site para um petshop local."
+    },
+    "leaff": {
+      "title": "Leaff - Ecommerce",
+      "description": "Desenvolvi esse site como um trabalho escolar."
+    },
+    "devlinks": {
+      "title": "Devlinks - Links Personalizados",
+      "description": "Fiz esse site durante um curso de desenvolvimento web."
+    },
+    "view": "Ver Projeto →"
+  },
+  "home": {
+    "greeting": "Olá, eu sou o Lucas Dev",
+    "description": "Sou um profissional com formação em Desenvolvimento Web pela Rocketseat, Informática pelo SENAC e Lógica de Programação pelo SENAI. Possuo experiência no desenvolvimento de painéis de login, sites de links personalizados, e-commerces, além de scripts, mods e servidores para jogos. Também tenho ampla expertise em design gráfico, com domínio nouso do Photoshop para criação de logotipos, banners, cartazes e conteúdos para redes sociais. Meu objetivo é utilizar minhas habilidades técnicas e criativas para entregar soluções inovadoras e de alta qualidade.",
+    "viewProjects": "Ver Projetos",
+    "contactMe": "Fale Comigo"
+  },
+  "about": {
+    "title": "Sobre Mim",
+    "description": "Meu nome é Lucas, tenho 18 anos e tive meu primeiro contato com programação aos 14, desenvolvendo servidores de jogos com a linguagem Lua. Nessa mesma época, descobri o Photoshop e comecei a criar logos, banners e conteúdos personalizados. Desde então, venho aprofundando meus conhecimentos e cultivando minha paixão pela área.",
+    "frontend": "FrontEnd",
+    "backend": "BackEnd",
+    "education": {
+      "title": "Educação",
+      "courses": [
+        {
+          "name": "Análise e Desenvolvimento de Sistemas",
+          "institution": "Universidade USCS (2025 - 2027)",
+          "status": "Cursando"
+        },
+        {
+          "name": "Informática",
+          "institution": "Senac São Bernardo do Campo (2024 - 2024)",
+          "status": "Completo"
+        }
+      ]
+    }
+  },
+  "contact": {
+    "title": "Fale Comigo",
+    "name": "Nome",
+    "email": "exemplo@gmail.com",
+    "message": "Sua Mensagem",
+    "send": "Enviar Mensagem",
+    "success": "Mensagem enviada com sucesso!",
+    "error": "Ops! Algo deu errado. Tente novamente."
+  },
+  "designs": {
+    "title": "Designs em Destaque"
+  }
+}
